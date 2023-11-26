@@ -1,16 +1,15 @@
-## Introduction
-(Add an introduction about yourself)
+# Introduction
+Introduce yourself here
 
-## Projects
-
-### In-Fix Calculator (Fall 2023)
+# Projects
+## In-Fix Calculator
 - Python
-- explain this project
+- Explain what this is
 
-### Processing Directories (Fall 2023)
+## Processing Directories
 - C and UNIX
-- explain this project
+- explain what this is
 
-### Pizza Builder (Fall 2022)
+## Pizza Builder
 - Java
-- explain this project
+- explain what this is
