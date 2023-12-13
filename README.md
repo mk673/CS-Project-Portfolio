@@ -1,22 +1,17 @@
 # Introduction
-My name is Merriam Khan, and I am an Honors student at Georgia State University majoring in Computer Science. While much of my learning has been bound by academic learning, I am eager to utilize my technical skills and apply it in a corporate work environment. Below are some projects that I have completed that I feel represent my versatile skillset with regards to my techincal skills. I hope that by gaining experience in a professional setting, I will not only be able to enhance these skills, but also strengthen my interpersonal skills and work in a team.
+My name is Merriam Khan, and I am an Honors student at Georgia State University majoring in Computer Science. While much of my learning is comprised of academic learning, I am eager to utilize my technical skills and apply it in a corporate work environment. Below are some projects that I have completed that I feel represent my versatile skillset with regards to my technical skills. I hope that by gaining experience in a professional setting, I will not only be able to enhance these skills, but also learn how to effectively contribute to a team and strengthen my interpersonal skills.
 
 # Projects
-## In-Fix Calculator
-- Designed a program that accepts a mathematical, in-fix expression from the user and calculates the total result
-- Utilized stacks to organize the operators and operands and linearly calculate and simplify the result while passing through the expression only once
-- The program also handles invalid expressions as input by alerting the user of the error
+## Prisoner's Dilemma Game   (December 2023)
+- Developed an iterative, multi-process game utilizing the Prisoner's Dilemma game theory, which involves two players unable to communicate with each other, but must make a choice to cooperate or betray each other.
+- Implemented forking and multi-process communication to simulare a referee and two players, each with independent decision-making modules.
+- Utilized standard library functions to keep track of scores, and analyze players' moves to simulate 'influenced' decision-making and strategy performance for each player.
 
-## Processing Directories
-- Developed a program that processes a directory in the computer system (which is given by the user) and lists the existing files in that directory as well as their attributes
-- Attributes include file name, user ID, group ID, file type, file size, and timestamp
-- Employed system-level programming techniques in C and UNIX, such as readdir and stat, as well as processed arguments from the command line, to complete the task, handle any exceptions, and offer a help information display as a part of the program.
+## Processing Directories    (November 2023)
+- Developed a program that dynamically processes a user-given directory in the computer system and lists the existing files in that directory as well as their attributes.
+- Attributes include file name, user ID, group ID, file type, file size, and timestamp.
+- Employed system-level programming techniques, such as readdir and stat, to process user input from the command line, handle errors in retrieving data, and offer a help information display option. 
 
-## Pizza Builder
-- Designed a 'Read States' program that allows the user to pick a state in the U.S. using a drop-down menu and see all the cities in that state
-- Utilized Swing, Exception Handling, Event Handling, Input/Output Streams, and File Reading in Java to dynamically list the cities of a given U.S. as input by the user
-
-## Tip Calculator Application
-- Developed a fully-functional Tip Calculator Android (Version 11+) App using Kotlin
-- The application calculates the tip of a given bill amount by accepting a tip percentage using a seekbar
-- Self-taught how to build mobile apps by doing research using online articles, tutorial videos, as well as university provided labs
+## Pizza Builder             (December 2022)
+- Designed user-friendly pizza builder interface allowing the user to custom-build a personal pizza.
+- Utilized Swing, Exception and Event Handling, and Input/Output Streams to include dynamic topping selections, configurable pricing, and efficient data management to effectively handle user input.
