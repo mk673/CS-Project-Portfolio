@@ -3,8 +3,8 @@ My name is Merriam Khan, and I am an Honors student at Georgia State University 
 
 # Projects
 ## Image Classification Machine Learning Model (June 2024)
-- Developed an Image Classification ML model in **Python** using **PyTorch** and the CIFAR-10 dataset in Jupyter Notebook/Google Colab
-- Created a custom Convolutional Neural Network (CNN) and yielded results of (add stats)
+- Developed an Image Classification ML model in **Python** using **PyTorch** and the Fashion-MNIST dataset in Jupyter Notebook/Google Colab
+- Created a custom Convolutional Neural Network (CNN) and yielded an 84.31% training accuracy and an 83.66% testing accuracy
 - Self-taught basic machine learning principles such as gradient descent, backpropogation, supervised learning, etc.
 
 ## Employee Management Database System   (April 2024)
@@ -15,7 +15,8 @@ My name is Merriam Khan, and I am an Honors student at Georgia State University 
 
 ## Control-F Utility Program (April 2024)
 - Recreated the Control-F finding utility in **Assembly**, compatible with the **Netwide Assembler** for the Intel x86 architecture
-- Utilized (add 3 key tools) to modularly process input and find all locations of the given word or phrase to find in the text
+- Utilized standard input/output and modular programming to process input and find all locations of the given word or phrase to find in the text
+- Implemented a debugging system to help catch coding errors and improve utility function
 
 ## KPMG Data Analysis Experience   (December 2023)
 - Analyzed high volumes of data for quality issues and offered strategies to improve **data collection**
