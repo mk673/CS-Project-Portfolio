@@ -1,5 +1,5 @@
 # Introduction
-My name is Merriam Khan, and I am an Honors student at Georgia State University majoring in Computer Science. While much of my learning is comprised of academic learning, I am eager to utilize my technical skills and apply it in a corporate work environment. Below are some projects that I have completed that I feel represent my versatile skillset with regards to my technical skills. I hope that by gaining experience in a professional setting, I will not only be able to enhance these skills, but also learn how to effectively contribute to a team and strengthen my interpersonal skills.
+My name is Merriam Khan, and I am an Honors student at Georgia State University majoring in Computer Science with a specialization in Data Science. While much of my learning is comprised of academic learning, I am eager to utilize my technical skills and apply it in a corporate work environment. Below are some projects that I have completed that I feel represent my versatile skillset with regards to my technical skills. I hope that by gaining experience in a professional setting, I will not only be able to enhance these skills, but also learn how to effectively contribute to a team and strengthen my interpersonal skills.
 
 # Projects
 ## Image Classification Machine Learning Model (June 2024)
