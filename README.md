@@ -4,7 +4,7 @@ My name is Merriam Khan, and I am an Honors student at Georgia State University 
 # Projects
 
 ## Bookstore & Library Management System Web App (April 2025)
-- Developed a two-in-one bookstore and library management web application using **Streamlit** for frontend UI, Python's **Flask** for the backend, and SQL for the database operations
+- Developed a two-in-one bookstore and library management web application using Python's **Streamlit** for frontend UI, Python's **Flask** for the backend, and SQL for the database operations
 - Designed a functionally dependent (BCNF) database system to store book inventory and book information as well as user registration information, book preferences, and transaction history
 - Implemented functionality for customers to borrow or purchase a book, view transaction history, and view book recommendations taking into account their preferences
 
