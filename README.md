@@ -1,5 +1,5 @@
 # Introduction
-My name is Merriam Khan, and I am an Honors student at Georgia State University majoring in Computer Science with a specialization in Data Science. Below are some projects that I have completed that I feel represent my versatile skillset with respect to my technical skills, along with interpersonal skills I honed and developed as I learned to navigate working with team members and communicating project goals. I hope that by gaining experience in a professional setting, I will be able to enhance these skills as well as challenge myself into expanding my horizons and stepping outside of my comfort zone to support this growth.
+My name is Merriam Khan, and I am an Honors student at Georgia State University majoring in Computer Science with a specialization in Data Science. Below are some projects that I have completed that I feel represent my versatile skillset with respect to my technical skills, along with interpersonal skills I honed and developed as I learned to navigate working with team members and communicating project goals. I hope that by gaining experience in a professional setting, I will be able to enhance these skills as well as challenge myself into expanding my horizons and stepping outside of my comfort zone to learn new skills.
 
 # Projects
 
@@ -7,15 +7,12 @@ My name is Merriam Khan, and I am an Honors student at Georgia State University 
 - Developed a two-in-one bookstore and library management web application using **Streamlit** for frontend UI, Python's **Flask** for the backend, and SQL for the database operations
 - Designed a functionally dependent (BCNF) database system to store book inventory and book information as well as user registration information, book preferences, and transaction history
 - Implemented functionality for customers to borrow or purchase a book, view transaction history, and view book recommendations taking into account their preferences
-- Link to GitHub Repo: (add link)
-- Add video of web app
 
 ## photoGraph Data Visualization Web App (April 2025)
 - Developed a user-interactive data visualization web application with **Supabase**, **SQL**, and **Python**, to assist users with exploring large amounts of image data by plotting and clustering them on a graph
 - Utilized machine learning models and dimensionality reduction techniques to process image data, and implemented interactive features such as zoom-in, dragging, as well as text/image querying to filter through data
 - Crafted a detailed software design report, illustrated sequence and use case diagrams, and composed a comprehensive final product report explaining the system’s features and the **SDLC** process followed
 - Delegated tasks to team members and implemented regular check-ups to ensure timely completion of the project
-- Link to GitHub Repo: (add link)
 
 ## Movie Rating Prediction ML Model (December 2024)
 - Developed ML Regression models in **Python** using **SciKit Learn** and The Movie Database in Jupyter Notebook/Google Colab
