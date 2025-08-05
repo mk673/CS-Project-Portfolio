@@ -7,18 +7,20 @@ My name is Merriam Khan, and I am an Honors student at Georgia State University 
 - Developed a two-in-one bookstore and library management web application using Python's **Streamlit** for frontend UI, Python's **Flask** for the backend, and SQL for the database operations
 - Designed a functionally dependent (BCNF) database system to store book inventory and book information as well as user registration information, book preferences, and transaction history
 - Implemented functionality for customers to borrow or purchase a book, view transaction history, and view book recommendations taking into account their preferences
+- Planned and communicated ideas with team members, as well as created a schedule and **organized meetings** to ensure project goals were being met
 
 ## photoGraph Data Visualization Web App (April 2025)
 - Developed a user-interactive data visualization web application with **Supabase**, **SQL**, and **Python**, to assist users with exploring large amounts of image data by plotting and clustering them on a graph
 - Utilized machine learning models and dimensionality reduction techniques to process image data, and implemented interactive features such as zoom-in, dragging, as well as text/image querying to filter through data
 - Crafted a detailed software design report, illustrated sequence and use case diagrams, and composed a comprehensive final product report explaining the system’s features and the **SDLC** process followed
-- Delegated tasks to team members and implemented regular check-ups to ensure timely completion of the project
+- Delegated tasks to team members and **implemented regular check-ups** to ensure timely completion of the project
 
 ## Movie Rating Prediction ML Model (December 2024)
 - Developed ML Regression models in **Python** using **SciKit Learn** and The Movie Database in Jupyter Notebook/Google Colab
 - Analyzed data to see which factors influence a movie's rating, such as director, budget, etc, and developed machine learning models to best predict a movie's rating
 - Performed extensive data exploration and preprocessing by gathering data statistics, creating visuals, and performing operations such as missing value handling and normalization
 - Trained multiple ML models and fine-tuned parameters to determine which model performed better in accurately predicting a movie's rating
+- Collaborated with team members to complete project tasks as well as design a PowerPoint presentation to present findings and conclusions about the models
 
 ## Image Classification ML Model (June 2024)
 - Developed an Image Classification ML model in **Python** using **PyTorch** and the Fashion-MNIST dataset in Jupyter Notebook/Google Colab
